@@ -4,7 +4,7 @@
 #
 ## Project Details
 #
-Simple user information add has been worked on this repository. Using the data get method from backend to show in UI and using data post method from user to send backend data and show new data in UI.
+Simple user information add has been worked on this repository. Using the data get method from the backend to show in UI and using the data post method from the user to send backend data and show new data in UI.
 #
 ### `Technology Use`
 #
